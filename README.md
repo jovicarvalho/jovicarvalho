@@ -3,7 +3,7 @@
    <img align="left"  height="180" width="380" src= https://2.bp.blogspot.com/-xWr8_WpBmNA/VbeshNpa47I/AAAAAAAAW5M/PcaM02DcJMc/s1600/tumblr_n7zukidWwU1qze3hdo1_r2_500.gif>  
 </div>
    
- <div style="margin-right: 30px;"  > 
+ <div style="margin-right: 30px"  > 
     <h2>
        Tecnologies:
     </h2>
