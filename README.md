@@ -26,4 +26,8 @@
 <img  height="240" width="430" src= https://2.bp.blogspot.com/-xWr8_WpBmNA/VbeshNpa47I/AAAAAAAAW5M/PcaM02DcJMc/s1600/tumblr_n7zukidWwU1qze3hdo1_r2_500.gif>  
 </p>
 
- 
+<h2 align="center">📚 Learning right now (2023): 
+ <img  align="center" height="50" width="50" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/java_original_wordmark_logo_icon_146459.png">
+ <img  align="center" height="50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/540px-Postgresql_elephant.svg.png">
+ <img  align="center" height="50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Angular_full_color_logo.svg">
+</h2>
