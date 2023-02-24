@@ -30,4 +30,6 @@
  <img  align="center" height="50" width="50" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/java_original_wordmark_logo_icon_146459.png">
  <img  align="center" height="50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/540px-Postgresql_elephant.svg.png">
  <img  align="center" height="50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Angular_full_color_logo.svg">
+ <img  align="center" height="50" width="50" bor src="https://media.slid.es/avatars/1098231/Cypress_Logomark_Color_Dark_BG.jpg">
+ 
 </h2>
