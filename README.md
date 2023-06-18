@@ -1,7 +1,9 @@
 ### Hey guys!😀
  
       🔹 I'm a software developer.
-      🔹 Graduating in Bachelor of Science and Techology in the Federal University of Maranhão - Brasil.
+      🔹 Graduating in:
+            🔸 Bachelor of Science and Techology in the Federal University of Maranhão - Brazil.
+            🔸 Bachelor of Software Engineering in Estácio University - Brazil.    
       🔹 Love programmming, discoverying and learnig new things.
 
 <div  align="center" > 
