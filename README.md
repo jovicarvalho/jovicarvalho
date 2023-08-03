@@ -18,7 +18,8 @@
      <img align="center"  height="50" width="50" src="https://cdn-icons-png.flaticon.com/512/919/919825.png">
      <img align="center"  height="50" width="50" src="https://cdn-icons-png.flaticon.com/512/5968/5968381.png">
      <img align="center"  height="50" width="50" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mongodb_plain_wordmark_logo_icon_146423.png">
-     
+  
+
     
 </div>
 
@@ -29,9 +30,13 @@
 </p>
 
 <h2 align="center">📚 Learning right now (2023): 
+ <img align="center"  height="" width="80"  src="https://logos-world.net/wp-content/uploads/2022/01/NET-Framework-Logo.png">
+ <img align="center" height="80" width="80" src="https://miro.medium.com/v2/resize:fit:1400/1*w0u2TZpEp3WfKMrlL5jTSw.png">
  <img  align="center" height="50" width="50" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/java_original_wordmark_logo_icon_146459.png">
+
+ 
  <img  align="center" height="50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/540px-Postgresql_elephant.svg.png">
  <img  align="center" height="50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Angular_full_color_logo.svg">
  <img  align="center" height="50" width="50" bor src="https://media.slid.es/avatars/1098231/Cypress_Logomark_Color_Dark_BG.jpg">
- 
+
 </h2>
