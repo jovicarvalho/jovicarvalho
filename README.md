@@ -1,6 +1,7 @@
 ## Hey guys!😀
  
-   ![image](https://github.com/jovicarvalho/jovicarvalho/assets/54593758/daea9dfa-d3fa-4a1c-9c5b-bbe85402e9d6)
+   ![image](https://github.com/jovicarvalho/jovicarvalho/assets/54593758/f93d5d54-e016-4585-8fcc-8ab3ec325261)
+
 <div align="center">
  
 [![Linkedin Badge](https://img.shields.io/badge/Linkedin-323330?style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/jovicarvalho/) &nbsp;
@@ -32,14 +33,14 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) &nbsp;
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)  &nbsp;
 
-<p align = "center">
-<img  height="240" width="430" src= https://2.bp.blogspot.com/-xWr8_WpBmNA/VbeshNpa47I/AAAAAAAAW5M/PcaM02DcJMc/s1600/tumblr_n7zukidWwU1qze3hdo1_r2_500.gif>  
-</p>
-
-
 ## 📚 Anothers languages that I already had a adventure: 
 
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white) &nbsp;
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white) &nbsp;
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) &nbsp;
 ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white) &nbsp;
+
+
+<p align = "center">
+<img  height="240" width="430" src= https://2.bp.blogspot.com/-xWr8_WpBmNA/VbeshNpa47I/AAAAAAAAW5M/PcaM02DcJMc/s1600/tumblr_n7zukidWwU1qze3hdo1_r2_500.gif>  
+</p>
